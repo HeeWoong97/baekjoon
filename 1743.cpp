@@ -20,7 +20,7 @@ queue<dot> q;
 
 int bfs(int startR, int startC)
 {
-    dot startV {startR, startC};
+    dot startV = {startR, startC};
     int garbage = 1;
 
     q.push(startV);
