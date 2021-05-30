@@ -19,7 +19,7 @@ using namespace std;
 int w(int a, int b, int c)
 {
     int memo[a + 1][b + 1][c + 1];
-    
+
 }
 
 int main(void)
